@@ -19,8 +19,8 @@
   "homepage": "https://meathill-lecture.github.io/",
   "license": "(CC-BY-NC-ND-4.0 OR MIT)",
   "devDependencies": {
-    "@babel/core": "^7.5.0",
-    "@babel/preset-env": "^7.5.2",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
     "babel-loader": "^8.0.6",
     "del": "^3.0.0",
     "gulp": "^4.0.2",
@@ -29,11 +29,11 @@
     "gulp-replace": "^0.5.4",
     "gulp-stylus": "^2.6.0",
     "gulp-uglify": "^3.0.2",
-    "marked": "^0.6.2",
+    "marked": "^0.7.0",
     "mkdirp": "^0.5.1",
-    "reveal-markdown-compiler": "^2.2.4",
-    "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.5"
+    "reveal-markdown-compiler": "^2.2.6",
+    "webpack": "^4.37.0",
+    "webpack-cli": "^3.3.6"
   },
   "dependencies": {
     "font-awesome": "^4.7.0",
